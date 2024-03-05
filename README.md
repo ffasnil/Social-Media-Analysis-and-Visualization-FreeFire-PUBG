@@ -1,4 +1,4 @@
-# Social-Media-Analysis-FreeFire-PUBG
+# Social Media Analysis and Visualization of FreeFire and PUBG with Spreadsheets
 ![Social Media Analysis_ FreeFire vs  PUBG](https://github.com/ffasnil/Social-Media-Analysis-FreeFire-PUBG/assets/89661712/e34c7a0a-50b0-4e81-83b3-52d7d502227f)
 
 ### Acces The Project
